@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fname": "keshav",
+      "lname": "jha",
+      "email": "keshav@gmail.com",
+      "mobile": "9987304752"
+    },
+    {
+      "id": 3,
+      "fname": "behram",
+      "lname": "abc",
+      "email": "beharm@gmail.com",
+      "mobile": "123456987"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
